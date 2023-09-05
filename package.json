@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ujjwalshriv3/lambda-mongodb-s3-backup.git"
+    "url": "git+https://github.com/krishnasingh34/lambda-mongodb-s3-backup.git"
   },
-  "author": "ujjwalshriv3",
+  "author": "krishnasingh34",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ujjwalshriv3/lambda-mongodb-s3-backup/issues"
+    "url": "https://github.com/krishnasingh34/lambda-mongodb-s3-backup/issues"
   },
-  "homepage": "https://github.com/ujjwalshriv3/lambda-mongodb-s3-backup#readme"
+  "homepage": "https://github.com/krishnasingh34/lambda-mongodb-s3-backup#readme"
 }
