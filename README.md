@@ -9,7 +9,7 @@
 ## 👨🏻‍💻 About me
 
 - 🔭 I’m currently working on **Open source project**
-- 🌱 Graduated with **B.Tech** in CSE, **2025**
+- 🌱 Graduated with **B.Tech** in **CSE**, **2025**
 - 🌱 I’m currently learning **MERN Stack**
 - 💬 Feel free to contact me to discuss about projects and share innovative ideas <a href="https://discordapp.com/users/krishnasingh34">here</a>.
 - 👯 I’m looking to collaborate on **Projects that enhances my knowledge and bring growth to the clients.**
